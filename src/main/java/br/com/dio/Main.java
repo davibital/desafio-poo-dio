@@ -1,3 +1,4 @@
+package br.com.dio;
 import java.time.LocalDate;
 
 import br.com.dio.desafio.dominio.Aluno;
